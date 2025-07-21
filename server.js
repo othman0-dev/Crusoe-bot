@@ -29,7 +29,7 @@ const hastebins = require("hastebin-gen");
 const getYoutubeID = require("get-youtube-id");
 const yt_api_key = "AIzaSyAXaeBh837k38o_lwSADet8UTO7X21DGsY"; ///تعديل اساسي سوي اي بي اي جديد
 const pretty = require("pretty-ms");
-client.login("NzA5NTc1ODIyNTM2ODY3OTEw.G0Tj3t.BTCvWFJNeFy5g6DbFmR2NDiVEepouB7rH51piI");
+client.login("NzA5NTc1ODIyNTM2ODY3OTEw.GtCE-x.2wLbfvm76aVCYPvh7Cm261GfrhYHtFTfdIyQnI");
 const queue = new Map();
 var table = require("table").table;
 const Discord = require("discord.js");
